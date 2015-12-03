@@ -7,5 +7,6 @@ by using Git
 This should be pulled back to the master branch
 Change 1
 Change 2
+Change 3 for Automatic merges
 ###Copyright
 git.training 2015
