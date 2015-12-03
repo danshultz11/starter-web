@@ -1,4 +1,4 @@
-
+*.orig
 ew Text Document.txt
 *.log
 log/
